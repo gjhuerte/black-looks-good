@@ -2,6 +2,7 @@
 	"name": "Black Looks Good",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#1e272e",
 		"activityBarBadge.background": "#000",
 		"activityBar.background": "#000000",
 
@@ -23,7 +24,7 @@
 		"list.inactiveSelectionBackground": "#1e272e",
 		"list.highlightForeground": "#1e272e",
 		"list.focusBackground": "#1e272e",
-		"list.warningForeground": "#05c46b",
+		"list.warningForeground": "#ffdd59",
 		"listFilterWidget.outline": "#000000",
 
 		"panel.border": "#34e7e4",
@@ -31,12 +32,11 @@
 		
 		"statusBar.background": "#05c46b",
 		"statusBar.foreground": "#ffffff",
+		"selection.background": "#000000",
 		"sideBarTitle.foreground": "#d2dae2",
 		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#000000",
-
 		"statusBarItem.hoverBackground": "#0be881",
-
 		"scrollbarSlider.hoverBackground": "#485460",
 		"scrollbarSlider.background": "#000000",
 		"scrollbarSlider.activeBackground": "#1e272e",
