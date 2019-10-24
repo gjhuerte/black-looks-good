@@ -8,8 +8,10 @@
 
 		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
+		"editor.selectionForeground": "#eeffff",
 		"editorGroup.dropBackground": "#1e272e",
 		"editorGroupHeader.tabsBackground": "#000000",
+		"editor.findMatchBackground": "#fff",
 		"editorGroup.border": "#000000",
 
 		"input.background": "#000000",
@@ -22,8 +24,10 @@
 		"list.hoverBackground": "#1e272e",
 		"list.hoverForeground": "#d2dae2",
 		"list.inactiveSelectionBackground": "#1e272e",
-		"list.highlightForeground": "#1e272e",
+		"list.highlightForeground": "#0fbcf9",
 		"list.focusBackground": "#1e272e",
+		"list.invalidItemForeground": "#f53b57",
+		"list.errorForeground": "#ff3f34",
 		"list.warningForeground": "#ffdd59",
 		"listFilterWidget.outline": "#000000",
 
@@ -44,6 +48,8 @@
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#808e9b",
 		"tab.border": "#000000",
+
+		"textLink.activeForeground": "#0fbcf9",
 
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#1e272e",
