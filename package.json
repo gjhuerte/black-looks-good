@@ -2,7 +2,7 @@
     "name": "black-looks-good",
     "displayName": "Black Looks Good",
     "description": "Black color scheme made for developers",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.39.0"
     },
