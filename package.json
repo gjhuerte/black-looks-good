@@ -1,21 +1,31 @@
 {
-    "name": "black-looks-good",
-    "displayName": "Black Looks Good",
-    "description": "Black color scheme made for developers",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.39.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Black Looks Good",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Black Looks Good-color-theme.json"
-            }
-        ]
-    }
+	"name": "black-looks-good",
+	"displayName": "Black Looks Good",
+	"description": "Black color scheme made for developers",
+	"publisher": "gjhuerte",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.39.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Black Looks Good",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Black Looks Good-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/gjhuerte/black-looks-good-vscode-theme.git"
+	},
+	"__metadata": {
+		"id": "9a84a2ce-f9c4-425f-a0be-757dd096d930",
+		"publisherDisplayName": "Gabriel Jay Huerte",
+		"publisherId": "2eeb2961-86b4-4ca8-b9b7-7c4290b8a9e1"
+	}
 }
