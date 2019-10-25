@@ -1,5 +1,5 @@
 {
-	"name": "Black Looks Good",
+	"name": "Black Looks Good Theme",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#1e272e",
@@ -11,7 +11,7 @@
 		"editor.selectionForeground": "#eeffff",
 		"editorGroup.dropBackground": "#1e272e",
 		"editorGroupHeader.tabsBackground": "#000000",
-		"editor.findMatchBackground": "#fff",
+		"editor.findMatchBackground": "#1e272e",
 		"editorGroup.border": "#000000",
 
 		"input.background": "#000000",

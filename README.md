@@ -1,4 +1,4 @@
-# Black Looks Good
+# Black Looks Good Theme
 ## This theme is made for you fellow programmers using black flavor"
 
 ### For more information

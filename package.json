@@ -1,6 +1,6 @@
 {
-	"name": "black-looks-good",
-	"displayName": "Black Looks Good",
+	"name": "black-looks-good-theme",
+	"displayName": "Black Looks Good Theme",
 	"description": "Black color scheme made for developers",
 	"publisher": "gjhuerte",
 	"version": "1.2.0",
@@ -13,7 +13,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Black Looks Good",
+				"label": "Black Looks Good Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Black Looks Good-color-theme.json"
 			}
