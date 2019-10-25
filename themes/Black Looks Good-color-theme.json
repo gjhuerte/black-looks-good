@@ -41,9 +41,10 @@
 		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#000000",
 		"statusBarItem.hoverBackground": "#0be881",
-		"scrollbarSlider.hoverBackground": "#485460",
-		"scrollbarSlider.background": "#000000",
-		"scrollbarSlider.activeBackground": "#1e272e",
+		"scrollbarSlider.hoverBackground": "#0be881",
+		"scrollbarSlider.background": "#0be881",
+		"scrollbarSlider.activeBackground": "#0be881",
+		"scrollbar.shadow": "#808e9b",
 
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#808e9b",
