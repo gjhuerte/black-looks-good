@@ -3,11 +3,11 @@
 	"displayName": "Black Looks Good Theme",
 	"description": "Black color scheme made for developers",
 	"publisher": "gjhuerte",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
-	"icon": "https://raw.githubusercontent.com/gjhuerte/black-looks-good-vscode-theme/master/resources/black-looks-good-theme-256.png",
+	"icon": "resources/black-looks-good-theme-256.png",
 	"categories": [
 		"Themes"
 	],
