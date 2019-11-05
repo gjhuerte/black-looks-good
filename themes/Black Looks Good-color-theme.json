@@ -40,7 +40,7 @@
 		"sideBarTitle.foreground": "#d2dae2",
 		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#000000",
-		"statusBarItem.hoverBackground": "#0be881",
+		"statusBarItem.hoverBackground": "#f9f9f935",
 		"scrollbarSlider.hoverBackground": "#0be881",
 		"scrollbarSlider.background": "#0be881",
 		"scrollbarSlider.activeBackground": "#0be881",

@@ -3,7 +3,7 @@
 	"displayName": "Black Looks Good Theme",
 	"description": "Black color scheme made for developers",
 	"publisher": "gjhuerte",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
